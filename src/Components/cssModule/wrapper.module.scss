@@ -1,0 +1,29 @@
+
+
+.wrapper {
+  
+   .wrapper_container{
+    @apply flex 
+    flex-col 
+    h-full 
+    font-body 
+    min-h-screen
+    container
+    mx-auto
+    max-w-[1210px]
+    px-3
+    
+    
+    ;
+   }
+}
+
+.header {
+//    @apply w-full h-full;
+}
+.main {
+    @apply  flex-auto 
+}
+.footer {
+}
+
